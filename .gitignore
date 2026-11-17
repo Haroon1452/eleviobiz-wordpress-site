@@ -1,0 +1,63 @@
+
+# ==========================================
+# ElevioBiz - Website Portfolio
+# ==========================================
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor and IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment and Credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json
+
+# WordPress Configuration (if applicable)
+wp-config.php
+wp-config-*.php
+wp-content/uploads/
+wp-content/cache/
+wp-content/backup*/
+wp-content/upgrade/
+
+# Database and Backups
+*.sql
+*.sql.gz
+*.sqlite
+*.db
+*.bak
+*.zip
+*.tar
+*.tar.gz
+
+# Dependencies and Build Files
+node_modules/
+vendor/
+dist/
+build/
+.cache/
+
+# Logs and Temporary Files
+*.log
+*.tmp
+*.temp
+*.cache
+*.old
+
+# Local Configuration
+*.local
+*.local.*
