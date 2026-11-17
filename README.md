@@ -53,7 +53,7 @@ It does not contain proprietary AI systems, patient information, private integra
 
 ## Screenshots
 
-Add screenshots of the homepage, service sections, industry specialization pages, resources, pricing, contact section, and mobile layout.
+Added screenshots of the homepage, service page, pricing and mobile layout.
 
 ## Project Purpose
 
